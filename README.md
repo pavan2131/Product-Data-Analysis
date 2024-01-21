@@ -6,4 +6,4 @@ Product Data Analysis on Flipkart 2023 is an Excel-based repository aimed at ana
 
 The Excel-based data analysis involves using various Excel functions and features, such as data sorting, filtering, pivot tables, charts, and formulas, to analyze and visualize the product data. The repository includes Excel files with pre-built templates and examples for conducting exploratory data analysis (EDA), statistical analysis, sentiment analysis, and competitor analysis, providing a user-friendly approach to extract insights from Flipkart's product data.
 
-![alt text](https://github.com/pavan2131/IOTA-Firmware/blob/main/Picture1.png)
+![alt text](https://github.com/pavan2131/Product-Data-Analysis/blob/main/Screenshot%20(1522).png)
